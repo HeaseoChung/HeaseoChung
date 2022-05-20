@@ -1,5 +1,5 @@
 # 👋 Hi! Good to see you.
-Welcome to my page!
+Welcome to my page! <img alt="Stars" src="https://img.shields.io/github/stars/HeaseoChung?style=social"> 
 - I'm Heaseo, AI Engineer from 🇰🇷 Seoul, Korea.
 - I studied software engineering at McMaster University from 🇨🇦 Hamilton, Canada.
 
