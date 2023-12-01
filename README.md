@@ -1,8 +1,15 @@
 # 👋 Hi! Good to see you.
 Welcome to my page! <br />
-<img alt="Stars" src="https://img.shields.io/github/stars/HeaseoChung?style=social">  
 - I'm Heaseo, AI Engineer from 🇰🇷 Seoul, Korea.
-- I studied software engineering at McMaster University from 🇨🇦 Hamilton, Canada.
+- I'm sharing my project through the links below:
+1. [Latent Diffusion for Super Resolution](https://mire-planet-69a.notion.site/Latent-Diffusion-Super-Resolution-ec0fb7a15e324754938bda197509d950?pvs=4)
+2. [Super Resolution for RTSP streaming](https://mire-planet-69a.notion.site/Super-Resolution-for-RTSP-streaming-192217e381994bc692437bcf58339302?pvs=4)
+3. [IR Super Resolution in Jetson](https://mire-planet-69a.notion.site/IR-Super-Resolution-in-Jetson-17993a54fa6749dcbec4cca88b749641?pvs=4)
+4. [CVPR NTIRE Challenge 2023 for Efficient Super Resolution](https://mire-planet-69a.notion.site/CVPR-NTIRE-Challenge-2023-for-Efficient-Super-Resolution-db1f4bdee26543c9b7878b0dd5d778a6?pvs=4)
+5. [Warm Start Strategy Training for Super Resolution](https://mire-planet-69a.notion.site/Warm-Start-Strategy-Training-for-Super-Resolution-79340723b4b3429aa71628e52b22f5a9?pvs=4)
+6. [Wavelet Knowledge Distillation towards to Super Resolution](https://mire-planet-69a.notion.site/Wavelet-Knowledge-Distillation-towards-to-Super-Resolution-3b3eadb1cc90460a98763974a6ca08da?pvs=4)
+7. [To improve the performance of Super Resolution](https://mire-planet-69a.notion.site/To-improve-the-performance-of-Super-Resolution-82a66d19323045c8b923f7dc1a7a775b?pvs=4)
+8. [Super Resolution in Jetson with PyQT5 GUI](https://mire-planet-69a.notion.site/Super-Resolution-in-Jetson-with-PyQT5-GUI-322cde80af0b46fcb7c3f497a2da1401?pvs=4)
 
 ## Things I code with
 <img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/> <img alt="C++" src ="https://img.shields.io/badge/++-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=black"/> <img alt="PyTorch" src ="https://img.shields.io/badge/Pytorch-EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white"/> <img alt="TensorFlow" src ="https://img.shields.io/badge/TensorFlow-FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white"/> <img alt="ONNX" src ="https://img.shields.io/badge/ONNX-005CED.svg?&style=for-the-badge&logo=ONNX&logoColor=white"/> <img alt="TensorRT" src ="https://img.shields.io/badge/TensorRT-76B900.svg?&style=for-the-badge&logo=NVIDIA&logoColor=white"/> <img alt="OpenCV" src ="https://img.shields.io/badge/OpenCV-5C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white"/> <img alt="FFmpeg" src ="https://img.shields.io/badge/FFmpeg-007808.svg?&style=for-the-badge&logo=FFmpeg&logoColor=white"/> <img alt="FastAPI" src ="https://img.shields.io/badge/FastAPI-009688.svg?&style=for-the-badge&logo=FastAPI&logoColor=white"/> <img alt="Shell" src ="https://img.shields.io/badge/shell-5391FE.svg?&style=for-the-badge&logo=PowerShell&logoColor=white"/> <img alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/> <img alt="GitHub" src ="https://img.shields.io/badge/GitHub-181717.svg?&style=for-the-badge&logo=GitHub&logoColor=white"/>
