@@ -1,7 +1,7 @@
 # 👋 Hi! Good to see you.
 Welcome to my page! <br />
 - I'm Heaseo, AI Engineer from 🇰🇷 Seoul, Korea.
-- I'm sharing my project through the links below:
+- I'm sharing my projects through the links below:
 1. [Latent Diffusion for Super Resolution](https://mire-planet-69a.notion.site/Latent-Diffusion-Super-Resolution-ec0fb7a15e324754938bda197509d950?pvs=4)
 2. [Super Resolution for RTSP streaming](https://mire-planet-69a.notion.site/Super-Resolution-for-RTSP-streaming-192217e381994bc692437bcf58339302?pvs=4)
 3. [IR Super Resolution in Jetson](https://mire-planet-69a.notion.site/IR-Super-Resolution-in-Jetson-17993a54fa6749dcbec4cca88b749641?pvs=4)
